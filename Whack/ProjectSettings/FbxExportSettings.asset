@@ -1,0 +1,47 @@
+{
+    "MonoBehaviour": {
+        "m_Enabled": true,
+        "m_EditorHideFlags": 0,
+        "m_Name": "Fbx Export Settings",
+        "m_EditorClassIdentifier": "",
+        "Verbose": false,
+        "autoUpdaterEnabled": true,
+        "launchAfterInstallation": true,
+        "HideSendToUnityMenu": true,
+        "BakeAnimation": true,
+        "IntegrationSavePath": "D:/UNITY PROJECTS/Whack/Whack",
+        "selectedDCCApp": 0,
+        "prefabSavePaths": [
+            "Prefab",
+            "."
+        ],
+        "fbxSavePaths": [
+            "Prefab",
+            "."
+        ],
+        "selectedFbxPath": 0,
+        "selectedPrefabPath": 0,
+        "dccOptionNames": [
+            "3ds Max 2018"
+        ],
+        "dccOptionPaths": [
+            "D:/Software Installs/3ds Max 2018/3dsmax.exe"
+        ],
+        "exportModelSettingsSerialize": {
+            "exportFormat": 0,
+            "rootMotionTransfer": "",
+            "animatedSkinnedMesh": false,
+            "mayaCompatibleNaming": true,
+            "include": 2,
+            "lodLevel": 0,
+            "objectPosition": 0,
+            "exportUnrendered": true
+        },
+        "convertToPrefabSettingsSerialize": {
+            "exportFormat": 0,
+            "rootMotionTransfer": "",
+            "animatedSkinnedMesh": false,
+            "mayaCompatibleNaming": true
+        }
+    }
+}
